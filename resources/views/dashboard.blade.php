@@ -1,3 +1,3 @@
 <x-app-layout>
-    Home
+    dashboard
 </x-app-layout>
